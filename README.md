@@ -63,5 +63,10 @@ Happy learning! 🌳📚
 
 ## Reference
 
-- For more details and explanations, you can read the full article at [Link to Your Full Article].
+- Complete understanding of Decision Tree with GridSearchCV.ipynb
+- Complete understanding of Decision Tree with GridSearchCV.pdf
+- Datasets
+    - Exmaple.csv
+    - play_tennis.csv
+    - play_tennis_reg.csv
 
